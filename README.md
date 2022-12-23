@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Andrei M.
-- 👀 I’m interested in Mathematics, Physics, and Computer Science.
-- 🌱 I’m currently learning : C/C++, ...
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me : ...
+Hello, i'm Andrei M. 
+I like Computer Science, Mathematics, Physics, and Philosophy.
 
 <!---
 andreim-0/andreim-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
